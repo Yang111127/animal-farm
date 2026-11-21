@@ -1,0 +1,6 @@
+dist/
+*.zip
+Library/
+Temp/
+obj/
+Logs/
