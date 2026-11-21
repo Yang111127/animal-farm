@@ -1,0 +1,27 @@
+Animal Farm
+Copyright (c) 2026. All rights reserved.
+
+This repository distributes a compiled build of the game "Animal Farm"
+for personal, non-commercial use.
+
+1. The game build may be downloaded and played free of charge. It may not be
+   sold, bundled with paid products, monetised with advertising or donations,
+   or uploaded to storefronts without written permission from the author.
+
+2. The build contains pixel art assets from the "Sprout Lands" Basic Pack by
+   Cup Nooble (https://cupnooble.itch.io/). Those assets remain the property of
+   their author and are used under the Basic Pack license, which permits
+   non-commercial use only, requires attribution, and forbids redistribution of
+   the asset pack itself (including modified versions) as a standalone asset.
+
+3. No source code is distributed in this repository.
+
+For commercial licensing of the game, or for any use not covered above,
+contact the author.
+
+--- 中文简版 ---
+
+本仓库仅分发《Animal Farm / 桌面动物牧场》的编译产物，供个人非商业使用。
+不得转售、随付费产品捆绑、挂广告或接受打赏、或上架商店。
+游戏中包含 Cup Nooble 的 Sprout Lands 像素素材（Basic Pack 许可，仅限非商业、
+需署名、禁止单独再分发素材本身）。需要商用授权请联系作者。
