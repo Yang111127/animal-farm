@@ -37,6 +37,7 @@ Coins and animals are auto-saved every 30 seconds. Save folder:
 
 ## Screenshots
 
+![It really does run on top of your wallpaper](screenshots/demo.gif)
 | | |
 |---|---|
 | ![farm](screenshots/screenshot1_1280x720.png) | ![close up](screenshots/screenshot2_1280x720.png) |
